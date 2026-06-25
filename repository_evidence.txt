@@ -1,17 +1,22 @@
-Local Version-Control Evidence
+Public GitHub Repository Evidence
 
-        Author: Sukh Sandhu
+Author: Sukh Sandhu
+Repository: https://github.com/sukhsandhu/industry-integrated-ai-systems-synthesis
 
-        Branches:
-        development
+Branches:
+development
 * main
+  remotes/origin/development
+  remotes/origin/main
 
-        Commit history:
-        *   973d15e (HEAD -> main) Merge development evidence
+Commit history:
+* 791e2f4 (HEAD -> main, origin/main) Finalize synthesis paper word count
+* 0d9d87f Document repository evidence
+*   973d15e Merge development evidence
 |\  
-| * c7b3389 (development) Add development branch notes
+| * c7b3389 (origin/development, development) Add development branch notes
 |/  
 * 3ae0e44 Initial capstone project structure
 
-        Submission note:
-        The project folder is organized so it can be pushed to the required public GitHub repository before final Udacity upload.
+Rubric note:
+The public repository includes multiple commits on main and an additional development branch.

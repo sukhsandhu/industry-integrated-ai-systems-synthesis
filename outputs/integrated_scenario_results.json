@@ -1,0 +1,50 @@
+[
+  {
+    "scenario_id": "SYN-001",
+    "integrated_risk_score": 0.12,
+    "decision": "standard operations queue",
+    "components": {
+      "statistical_data_quality": 0.12,
+      "supervised_ml_confidence": 0.91,
+      "deep_learning_status": "confident",
+      "generative_ai_quality_flag": "in-distribution",
+      "agentic_boundary": "internal routing"
+    }
+  },
+  {
+    "scenario_id": "SYN-002",
+    "integrated_risk_score": 0.62,
+    "decision": "data quality review",
+    "components": {
+      "statistical_data_quality": 0.36,
+      "supervised_ml_confidence": 0.64,
+      "deep_learning_status": "uncertain",
+      "generative_ai_quality_flag": "in-distribution",
+      "agentic_boundary": "internal routing"
+    }
+  },
+  {
+    "scenario_id": "SYN-003",
+    "integrated_risk_score": 0.34,
+    "decision": "human approval required",
+    "components": {
+      "statistical_data_quality": 0.18,
+      "supervised_ml_confidence": 0.86,
+      "deep_learning_status": "confident",
+      "generative_ai_quality_flag": "outlier",
+      "agentic_boundary": "human approval"
+    }
+  },
+  {
+    "scenario_id": "SYN-004",
+    "integrated_risk_score": 0.98,
+    "decision": "expedited review",
+    "components": {
+      "statistical_data_quality": 0.5,
+      "supervised_ml_confidence": 0.58,
+      "deep_learning_status": "uncertain",
+      "generative_ai_quality_flag": "outlier",
+      "agentic_boundary": "internal routing"
+    }
+  }
+]

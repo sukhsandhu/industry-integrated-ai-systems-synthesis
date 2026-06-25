@@ -1,0 +1,17 @@
+Local Version-Control Evidence
+
+        Author: Sukh Sandhu
+
+        Branches:
+        development
+* main
+
+        Commit history:
+        *   973d15e (HEAD -> main) Merge development evidence
+|\  
+| * c7b3389 (development) Add development branch notes
+|/  
+* 3ae0e44 Initial capstone project structure
+
+        Submission note:
+        The project folder is organized so it can be pushed to the required public GitHub repository before final Udacity upload.
